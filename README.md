@@ -8,3 +8,4 @@ ChatGPT Assistant is an application developed using Expo and TypeScript. It serv
 - **Image Generation:** Generate images based on textual descriptions using OpenAI's DALL-E model.
 - **Speech-to-Text:** Convert spoken words into text using OpenAI's speech recognition model.
  
+ 
